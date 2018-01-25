@@ -8,13 +8,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zw-TW"
-title                    : "Wesely.io"
+locale                   : "en-US"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "WeselyOng"
-description              : "Android Developer."
-url                      : "https://wesely.github.io/"
-baseurl                  : "/blog"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -84,25 +84,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "WeselyOng"
-  avatar           : "https://i.imgur.com/wsjDj8X.png"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Taiwan, Taipei"
-  email            : "wesely.ong AT gmail.com"
-  uri              : 
+  location         : "Somewhere"
+  email            :
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/weselyong"
+  facebook         :
   foursquare       :
-  github           : "https://github.com/Wesely"
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/weselyong/"
-  lastfm           : "wesley-ong-18906871" 
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
