@@ -29,9 +29,9 @@ and black-level on white AppBar,
     
 ## Implementing Customize Icon
 
-**Info Notice:**
-- Assume you've already implemented FCM and can recieve messages.
-- In `app:gradle`, I'm using this version `implementation 'com.google.firebase:firebase-messaging:11.0.2'`
+Assume you've already implemented FCM and can recieve messages.
+
+In `app:gradle`, I'm using this version `implementation 'com.google.firebase:firebase-messaging:11.0.2'`
 (FCM 11.8.0 is available but it's customize icon feature seems have some issue.)
 {: .notice--info}
 
