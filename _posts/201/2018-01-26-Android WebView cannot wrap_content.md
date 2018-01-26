@@ -21,7 +21,7 @@ If none of these work, you should try [WrapContentWebView]: https://goo.gl/YGahg
 I had a bunch of `WebView` inside `Vertical LinearLayout` works fine, until I update 
 `com.android.support.constraint:constraint-layout` to `1.0.2`. My `WebView` height becomes 0 while using wrap_content.
 
-After many test and survey on StackOverflow, I suddenly found that it's all about the latest version of `ConstraintLayout`. 
+After meaningless hours of testing and StackOverflowing, I suddenly found that it's all because of the latest(1.0.2) version of `ConstraintLayout`. 
 I've tried re-anchor views to another views, but it still won't work.
 
 My humble conlusion is : *Use RelativeLayout* when there are many `View`s need to be arranged.
