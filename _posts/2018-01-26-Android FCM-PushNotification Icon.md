@@ -1,9 +1,9 @@
 ---
 title:  "Android FCM-PushNotification Icon"
 categories: 
-  Android
+  - Android
 tags:
-  android, fcm
+  - FCM
 ---
 
 <a href="https://i.imgur.com/hXjp70z.png"><img src="https://i.imgur.com/hXjp70z.png"></a>
