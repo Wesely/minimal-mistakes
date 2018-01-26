@@ -1,6 +1,6 @@
 ---
 title: "Android WebView cannot `wrap_content`"
-last_modified_at: 2018-01-03T09:45:06-05:00
+last_modified_at: 2018-01-26T20:43:06-05:00
 categories: 
   - Android
 tags:
