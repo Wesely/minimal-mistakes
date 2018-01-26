@@ -4,7 +4,7 @@ title:  "Android WebView cannot `wrap_content`"
 categories: 
   - Android
 tags:
-  - WebView, Android
+  - WebView; Android
 ---
 
 Usually, although not recommended by official, an `WebView` can wrap_content after `loadUrl()` or `loadDataWithBaseUrl()`
