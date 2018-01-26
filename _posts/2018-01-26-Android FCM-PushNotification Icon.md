@@ -1,12 +1,4 @@
----
-title:  "Android-FCM-PushNotification-Icon"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
-categories: 
-  - Android
-tags:
-  - android, fcm
----
+
 <a href="https://i.imgur.com/hXjp70z.png"><img src="https://i.imgur.com/hXjp70z.png"></a>
     
 In Android FCM Push-Notification, you should design your icon with alpha layer.
