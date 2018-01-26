@@ -1,4 +1,12 @@
-
+---
+title:  "Android- FCM Push-Notification Icon"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+categories: 
+  - Android
+tags:
+  - android, fcm
+---
 <a href="https://i.imgur.com/hXjp70z.png"><img src="https://i.imgur.com/hXjp70z.png"></a>
     
 In Android FCM Push-Notification, you should design your icon with alpha layer.
@@ -62,17 +70,4 @@ public class MyFCMService extends FirebaseMessagingService {
         </intent-filter>
     </service>
 <activity>
-```
-
-
-```
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74945787-1"></script>
-		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-74945787-1');
-		</script>
 ```
