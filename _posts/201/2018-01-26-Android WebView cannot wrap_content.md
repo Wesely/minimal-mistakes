@@ -1,15 +1,15 @@
-Usually, although not recommended, an WebView can wrap_content after `loadUrl()` or `loadDataWithBaseUrl()`
+Usually, although not recommended by official, an `WebView` can wrap_content after `loadUrl()` or `loadDataWithBaseUrl()`
 by doing this : 
-```java
+```android
 webView.setLayoutParams(
   new LinearLayout.LayoutParams(
-    ViewGroup.LayoutParams.WRAP_CONTENT,
+    ViewGroup.LayoutParams.MATCH_PARENT,
     ViewGroup.LayoutParams.WRAP_CONTENT
   )
 );
 ```
 
-If this won't work, here's the checklist of those things needs to be aware:
+If this won't work, here's a checklist:
 - Don't put `WebView` inside `ScrollView`, use `NestedScrollView` instead.
 - Make sure NONE of `WebView`'s parent is using `wrap_content` as `layout_height`.
 - Don't use `ConstraintLayout` it seems buggy (to me), `WebView` works fine in `RelativeLayout`
