@@ -10,7 +10,7 @@ tags:
 
 Usually, although not recommended by official, an `WebView` can wrap_content after `loadUrl()` or `loadDataWithBaseUrl()`
 by doing this : 
-```android
+```java
 webView.setLayoutParams(
   new LinearLayout.LayoutParams(
     ViewGroup.LayoutParams.MATCH_PARENT,
