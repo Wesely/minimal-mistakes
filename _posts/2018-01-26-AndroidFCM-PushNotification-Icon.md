@@ -13,8 +13,8 @@ tags:
     
 In Android FCM Push-Notification, you should design your icon with alpha layer.
     
-The alpha layer is the first 2 digits of hex-color : 0xAARRGGBB, which representing the transparency of a pixel.
-The system will extract the alpha value, Which means RGB color is useless here.
+The alpha layer is the first 2 digits of ARGB hex-color (0xAARRGGBB), which representing the transparency of a pixel.
+Android system will extract the alpha value, makes RGB color useless here.
 
 Example : 
 <img src="https://i.imgur.com/kI7jqNy.png"/>
