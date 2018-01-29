@@ -33,4 +33,5 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
   {{ notice-2 | markdownify }}
 </div>
 
-<a href="https://i.imgur.com/hXjp70z.png"><video autoplay="true" src="https://i.imgur.com/wm0w3KZ.mp4"></a>
+<a href="https://i.imgur.com/hXjp70z.png"><video autoplay="true" src="https://i.imgur.com/wm0w3KZ.mp4"/></a>
+
