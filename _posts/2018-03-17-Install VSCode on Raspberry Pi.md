@@ -2,14 +2,14 @@
 title: "Install VisualStudioCode on Raspberry Pi"
 last_modified_at: 2018-03-17T00:55:06-05:00
 categories: 
-  - Respberry Pi
+  - Raspberry Pi
 tags:
-  - Respberry Pi
-  - RASPBian
+  - Raspberry Pi
+  - RaspBian
   - VSCode
 ---
 
-### Installing VSCode on Raspberry Pi running RespBian
+### Installing VSCode on Raspberry Pi running RaspBian
 Original VSCode providing x86 or 64 .deb files for Debian.
 But Pi's architecture is **armhf**. 
 
