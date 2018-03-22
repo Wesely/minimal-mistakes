@@ -51,6 +51,8 @@ $ ssh pi@192.168.7.148
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
 Last login: Thu Mar 22 19:27:40 2018 from 192.168.7.148
-pi@raspberrypi:~ $
+pi@raspberrypi:~ $ pwd
+/home/pi
+
 ```
 
