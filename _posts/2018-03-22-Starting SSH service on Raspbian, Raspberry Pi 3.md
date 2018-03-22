@@ -1,5 +1,5 @@
 ---
-title: "Install VisualStudioCode on Raspberry Pi"
+title: "Starting SSH service on Raspbian/Raspberry Pi"
 last_modified_at: 2018-03-22T19:17:05-05:00
 categories: 
   - Raspberry Pi
@@ -33,7 +33,7 @@ Then come back to terminal use the first command again `$ sudo service ssh statu
 ## Connecting
 
 - **You can NOT logged via ssh with default password** :
-The default password for user `pi` is `raspberry`, you must change it now, using `$ passwd`
+The default password for user `pi` is `raspberry`, you must change it now by `$ passwd`
 
 - Run the sshd :
 
